@@ -1,2 +1,3 @@
 Editing the file foo
-edited !
+edited!
+Adding more code
